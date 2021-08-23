@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-09T12:36:53 IST" name="Suite" finished-at="2021-08-09T12:36:53 IST" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2021-08-09T12:36:53 IST" name="Smoke" finished-at="2021-08-09T12:36:53 IST" duration-ms="36">
+      <class name="Learning.MavenJava.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:Learning.MavenJava.AppiumTest@34f5090e]" started-at="2021-08-09T12:36:53 IST" name="IOSApps" finished-at="2021-08-09T12:36:53 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:Learning.MavenJava.AppiumTest@34f5090e]" started-at="2021-08-09T12:36:53 IST" name="NativeAppAndroid" finished-at="2021-08-09T12:36:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- Learning.MavenJava.AppiumTest -->
+      <class name="Learning.MavenJava.RESTAPTTest">
+        <test-method signature="deleteTwitter()[pri:0, instance:Learning.MavenJava.RESTAPTTest@69997e9d]" started-at="2021-08-09T12:36:53 IST" name="deleteTwitter" finished-at="2021-08-09T12:36:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:Learning.MavenJava.RESTAPTTest@69997e9d]" started-at="2021-08-09T12:36:53 IST" name="postJira" finished-at="2021-08-09T12:36:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- Learning.MavenJava.RESTAPTTest -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Suite -->
+</testng-results>
